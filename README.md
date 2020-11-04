@@ -1,4 +1,5 @@
 # Application Twitter Clone
+# Technologies:
 * Frontend: HTML and CSS.
 * Backend: PHP 7.
 # Getting Started
