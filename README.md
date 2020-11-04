@@ -1,9 +1,8 @@
-# Twitter Clone
-<br> Backend: PHP 7.
-<br> Frontend: HTML and CSS.<br>
+# Application Twitter Clone
+* Frontend: HTML and CSS.
+* Backend: PHP 7.
 <br>
-# Getting Started <br>
-<br> * PHP 7
-<br> * XAMPP (WAMP, MAP, etc...)
-<br> * Composer
-<br> * Source code editor (VSCode, Sublime, etc...)
+<br>
+# Getting Started
+* XAMPP (PHP, Apache and Mysql)
+* Web Browser (Chrome, Firefox, Opera...)
